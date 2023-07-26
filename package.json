@@ -4,7 +4,8 @@
   "description": "Warehouse robot application",
   "main": "robot.js",
   "scripts": {
-    "test": "test"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "repository": {
     "type": "git",
