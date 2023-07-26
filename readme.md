@@ -29,3 +29,9 @@ Available commands:
 
 - The robot can currently move across the warehouse grid in four directions: North (N), West (W), East (E) and South (S).
 - It can also take directions separated by space e.g. "S E N W" will move the robot in a square motion.
+
+## Testing
+
+- The application uses Jest for unit testing.
+- To run the tests, use `npm run test` command.
+- To see the test coverage, use `npm run coverage` command.
