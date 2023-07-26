@@ -28,7 +28,7 @@ Available commands:
 ## Notes
 
 - The robot can currently move across the warehouse grid in four directions: North (N), West (W), East (E) and South (S).
-- It can also take directions separated by space e.g. "S E N W" will move the robot in a square motion.
+- It can also take directions separated by spaces e.g. "S E N W" will move the robot in a square motion.
 
 ## Testing
 
